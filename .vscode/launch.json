@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "AirbnbCloneBackApplication",
+      "request": "launch",
+      "mainClass": "fr.codecake.airbnb_clone_back.AirbnbCloneBackApplication",
+      "projectName": "airbnb-clone-back"
+    },
+    {
       "name": "ng serve",
       "type": "chrome",
       "request": "launch",
